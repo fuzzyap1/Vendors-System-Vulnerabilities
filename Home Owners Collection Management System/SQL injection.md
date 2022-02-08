@@ -1,7 +1,7 @@
 ## [Home Owners Collection Management System](https://www.sourcecodester.com/php/15162/home-owners-collection-management-system-phpoop-free-source-code.html)
-
+### Exploit Title:Home Owners Collection Management System - id parameter SQL injection
 ## [Vendor](https://www.sourcecodester.com/users/tips23)
-
+### Exploit Author: fuuzyap1
 
 ## Description:
 
