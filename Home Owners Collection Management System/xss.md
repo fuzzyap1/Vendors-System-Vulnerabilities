@@ -1,8 +1,12 @@
+## [Home Owners Collection Management System](https://www.sourcecodester.com/php/15162/home-owners-collection-management-system-phpoop-free-source-code.html)
+
+## [Vendor](https://www.sourcecodester.com/users/tips23)
+
 ### Exploit Title:Home Owners Collection Management System -  'collected_by' Stored Cross Site Scripting (XSS)
 ### Exploit Author: fuuzyap1
 
 ### Description:
-A Stored Cross Site Scripting (XSS) vulnerability exists inHome Owners Collection Management System 1.0 via the Service List Section in login panel. an attacker can steal the cookies leading to Full Account Takeover.
+A Stored Cross Site Scripting (XSS) vulnerability exists in Home Owners Collection Management System 1.0 via the Service List Section in login panel. an attacker can steal the cookies leading to Full Account Takeover.
 
 ### Exploit:
 Login to the admin panel http://localhost/classes/Master.php?f=save_collection
