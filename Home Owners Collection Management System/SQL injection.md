@@ -9,7 +9,7 @@ The id parameter appears to be vulnerable to SQL injection attacks. The payload 
 This payload injects a SQL sub-query that calls MySQL's load_file function with a UNC file path that references a URL on an external domain. 
 The application interacted with that domain, indicating that the injected SQL query was executed.
 The attacker can take account control of all accounts on this system.
-Status: CRITICAL
+
 
 vuln url:
 ```
